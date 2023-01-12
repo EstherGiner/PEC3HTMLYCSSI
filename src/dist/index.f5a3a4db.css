@@ -24,7 +24,7 @@ table {
   border-spacing: 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4 {
   color: #222;
   font-family: Raleway, sans-serif;
   font-weight: 600;
@@ -184,65 +184,6 @@ hr.botm-line {
 .text-primary i {
   padding-top: 8px;
   display: inline-block;
-}
-
-.icon i {
-  color: #0cb8b6;
-  margin-bottom: 25px;
-  font-size: 45px;
-}
-
-.service-info {
-  margin-bottom: 20px;
-}
-
-.icon-info h4 {
-  padding-bottom: 15px;
-}
-
-.icon-info p {
-  font-size: 15px !important;
-}
-
-.schedule-tab {
-  float: left;
-  background-color: #0cb8b6;
-}
-
-.medi-info {
-  border-right: 1px solid #fff;
-}
-
-.medi-info, .time-info {
-  color: #fff;
-  padding: 20px;
-}
-
-.medi-info h3, .time-info h3 {
-  color: #fff;
-  padding-bottom: 16px;
-  font-weight: 600;
-}
-
-.medi-info-btn, .medi-info-btn:hover, .medi-info-btn:focus {
-  color: #fff;
-  cursor: pointer;
-  border: 2px solid #fff;
-  margin: 15px 0 5px;
-  padding: 3px 8px;
-  font-size: 12px;
-  display: inline-block;
-  font-weight: 400 !important;
-}
-
-td {
-  border: 0 solid #ededed;
-  border-top: 1px solid #d8d8d880;
-  padding: 6px 10px 6px 0;
-}
-
-.medi-info, .time-info {
-  font-size: 14px;
 }
 
 #footer {
